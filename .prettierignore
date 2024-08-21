@@ -1,0 +1,13 @@
+node_modules/
+/dist
+/coverage
+.firebase
+.vscode
+.editorconfig
+.firebaserc
+firebase.json
+yarn.lock
+package-lock.json
+yarn-error.log
+.angular
+
